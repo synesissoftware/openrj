@@ -1,0 +1,45 @@
+%% Sample Open-RJ database - Cats and Dogs
+%% Created:   28th September 2004
+%% Updated:   13th May 2006
+_OpenRJ.Field.Alias:	1:Name
+_OpenRJ.Field.Alias:	2:Species
+_OpenRJ.Field.Alias:	3:Breed
+%%
+
+1:	Barney
+2:	Dog
+3:	Bijon \
+	Frieze
+%%
+1:	Elsa
+2:	Dog
+3:	Mixed
+%%
+1:	Fluffy Kitten
+2:	Cat
+%%
+1:	Moet
+2:	Dog
+3:	Boxer
+%%
+1:	Rebel
+2:	Dog
+3:	German \
+	Shepherd
+%%
+1:	Pepper
+2:	Dog
+3:	Border Collie
+%%
+1:	Samson
+2:	Dog
+3:	Ridgeback
+%%
+1:	Sheltie
+2:	Dog
+3:	Shetland \
+	Sheepdog
+%%
+1:	Sparky
+2:	Cat
+%%
