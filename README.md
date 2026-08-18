@@ -13,16 +13,16 @@ Small C library for reading Record-JAR (**openrj**) databases.
 ## Table of Contents <!-- omit in toc -->
 
 - [Introduction](#introduction)
-	- [Dependencies](#dependencies)
+  - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Components](#components)
 - [Examples](#examples)
 - [Project Information](#project-information)
-	- [Where to get help](#where-to-get-help)
-	- [Contribution guidelines](#contribution-guidelines)
-	- [Dependencies](#dependencies-1)
-	- [Related projects](#related-projects)
-	- [License](#license)
+  - [Where to get help](#where-to-get-help)
+  - [Contribution guidelines](#contribution-guidelines)
+  - [Dependencies](#dependencies-1)
+  - [Related projects](#related-projects)
+  - [License](#license)
 
 
 ## Introduction
