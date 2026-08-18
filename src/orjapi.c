@@ -1087,7 +1087,7 @@ ORJ_CALL(int) ORJ_FormatErrorA( /* [in] */ char             *dest
         (void)strncpy_s(&f[0] + cchPre + cchErr, NUM_ELEMENTS(f) - (cchPre + cchErr), fmt + cchPre + 2, cchPost);
 #else /* ? OPENRJ_USING_SAFE_STR_FUNCTIONS */
         (void)strncpy(&f[0], fmt, cchPre);
-        (void)strncpy(&f[0] + cchPre, e, cchErr);
+        memcpy(&f[0] + cchPre, e, cchErr);
         (void)strncpy(&f[0] + cchPre + cchErr, fmt + cchPre + 2, cchPost);
 #endif /* OPENRJ_USING_SAFE_STR_FUNCTIONS */
         f[cchPre + cchErr + cchPost] = '\0';
@@ -1129,7 +1129,7 @@ plain_printf:
 #else /* ? OPENRJ_USING_SAFE_STR_FUNCTIONS */
             (void)strncpy(&dest[n], e, remaining);
 #endif /* OPENRJ_USING_SAFE_STR_FUNCTIONS */
-            n += remaining;
+            n += (int)remaining;
             dest[n] = '\0';
         }
     }
