@@ -6,7 +6,7 @@
 
 | Date                 | News Item                                                                 |
 | -------------------- | ------------------------------------------------------------------------- |
-| 23rd August 2026     | C base recovered into freelibs as **Open-RJ** (historical **1.6.4** line) |
+| 20th August 2026     | Open-RJ 1.6.5 (alpha 1) released                                          |
 | 30th April 2007      | Open-RJ 1.6.4 released                                                    |
 | 27th September 2006  | Open-RJ 1.6.3 released                                                    |
 | 26th September 2006  | Open-RJ 1.6.2 released                                                    |

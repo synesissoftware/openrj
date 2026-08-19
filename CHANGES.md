@@ -1,9 +1,10 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
-## 1.6.5 - 23rd August 2026
+## 1.6.5-alpha1 - 20th August 2026
 
-T.B.C.
+* C base recovered into freelibs as **Open-RJ**;
+* Updated build, CI, and documentation support;
 
 
 ## 1.6.4 - 30th April 2007
