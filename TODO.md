@@ -22,7 +22,7 @@
 
 ## Packaging improvements
 
-* [x] ~~~Modern CMake + GitHub Actions CI for the C base~~~ ✅;
+* [x] ~~~Modern CMake + GitHub Actions CI for the C base~~~ - ✅;
 * [ ] Publish GitHub release for recovered **1.6.4** line;
 * [ ] Add component tests for file-based `ORJ_ReadDatabaseA()`;
 
