@@ -38,7 +38,7 @@ mkdir -p "$OutputDir" || exit 1
 
 cat > "$ConfigFile" << EOF
 PROJECT_NAME           = Open-RJ
-PROJECT_NUMBER         = 1.6.5-alpha1
+PROJECT_NUMBER         = 1.6.5-beta1
 PROJECT_BRIEF          = "A C library for reading Record-JAR databases"
 OUTPUT_DIRECTORY       = "$OutputDir"
 INPUT                  = "$Dir/include" "$Dir/doc/mainpage.md"

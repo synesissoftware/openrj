@@ -4,7 +4,7 @@
  * Purpose: Root header file for the Open-RJ library
  *
  * Created: 11th June 2004
- * Updated: 17th September 2026
+ * Updated: 9th October 2026
  *
  * Home:    http://openrj.org/
  *
@@ -96,12 +96,13 @@
 # define OPENRJ_VER_1_6_3       0x01060300
 # define OPENRJ_VER_1_6_4       0x01060400
 # define OPENRJ_VER_1_6_5_A1    0x01060541
+# define OPENRJ_VER_1_6_5_B1    0x01060581
 #endif /* !OPENRJ_DOCUMENTATION_SKIP_SECTION */
 
 #define OPENRJ_VER_MAJOR                                    1
 #define OPENRJ_VER_MINOR                                    6
 #define OPENRJ_VER_PATCH                                    5
-#define OPENRJ_VER_ALPHABETA                                0x41
+#define OPENRJ_VER_ALPHABETA                                0x81
 
 #define OPENRJ_VER \
    (0\
