@@ -5,7 +5,7 @@
  *          handling of a "failure to open file" error.
  *
  * Created: 12th May 2006
- * Updated: 23rd August 2026
+ * Updated: 9th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 
@@ -41,7 +41,11 @@ int main(void)
         ORJ_FormatErrorA(&message[0], sizeof(message) / sizeof(0[message]), rc, &error, "  Error code %d means: %E\n", (int)rc);
         fprintf(stderr, "%s", message);
 
-        return EXIT_FAILURE;
+        /*
+         * The failure is intentional: this example demonstrates error
+         * handling.
+         */
+        return EXIT_SUCCESS;
     }
     else
     {
