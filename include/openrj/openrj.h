@@ -4,7 +4,7 @@
  * Purpose: Root header file for the Open-RJ library
  *
  * Created: 11th June 2004
- * Updated: 9th October 2026
+ * Updated: 10th October 2026
  *
  * Home:    http://openrj.org/
  *

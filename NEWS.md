@@ -6,7 +6,7 @@
 
 | Date                | News Item                   | Details |
 | ------------------- | --------------------------- | ------- |
-| 9th October 2026    | [1.6.5-beta1 released](https://github.com/synesissoftware/openrj/releases/tag/1.6.5-beta1) | CMake helpers, version reporter, and release metadata |
+| 10th October 2026   | [1.6.5-beta1 released](https://github.com/synesissoftware/openrj/releases/tag/1.6.5-beta1) | CMake helpers, version reporter, and release metadata |
 | 20th August 2026    | [1.6.5-alpha1 released](https://github.com/synesissoftware/openrj/releases/tag/1.6.5-alpha1) | Open-RJ C base recovery and build support |
 | 30th April 2007     | Open-RJ 1.6.4 released    | STLSoft compatibility and C++ API updates |
 | 27th September 2006 | Open-RJ 1.6.3 released    | Distribution layout update |
