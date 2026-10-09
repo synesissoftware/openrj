@@ -1,6 +1,16 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
+## 1.6.5-beta1 - 10th October 2026
+
+* Applied **misc-dev-scripts** **0.6.0** editor/Git/`.sis` drop-in templates on **boilerplate**;
+* Restored historical **.gitignore** patterns as a sorted union with **misc-dev-scripts** gold section layout;
+* Added a CMake scratch version reporter under **test/scratch/versions**;
+* Corrected its CMake executable target to **test.scratch.versions**;
+* Added native Windows helper runners and canonicalised the CMake helper scripts;
+* Made the expected-error example smoke test succeed;
+
+
 ## 1.6.5-alpha1 - 20th August 2026
 
 * C base recovered into freelibs as **Open-RJ**;
