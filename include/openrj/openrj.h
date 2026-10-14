@@ -4,7 +4,7 @@
  * Purpose: Root header file for the Open-RJ library
  *
  * Created: 11th June 2004
- * Updated: 10th October 2026
+ * Updated: 14th October 2026
  *
  * Home:    http://openrj.org/
  *
@@ -56,8 +56,8 @@
 #ifndef OPENRJ_DOCUMENTATION_SKIP_SECTION
 # define OPENRJ_VER_OPENRJ_H_OPENRJ_MAJOR       1
 # define OPENRJ_VER_OPENRJ_H_OPENRJ_MINOR       24
-# define OPENRJ_VER_OPENRJ_H_OPENRJ_REVISION    3
-# define OPENRJ_VER_OPENRJ_H_OPENRJ_EDIT        63
+# define OPENRJ_VER_OPENRJ_H_OPENRJ_REVISION    4
+# define OPENRJ_VER_OPENRJ_H_OPENRJ_EDIT        64
 #endif /* !OPENRJ_DOCUMENTATION_SKIP_SECTION */
 
 /** \def OPENRJ_VER_MAJOR
@@ -102,17 +102,18 @@
 #define OPENRJ_VER_MAJOR                                    1
 #define OPENRJ_VER_MINOR                                    6
 #define OPENRJ_VER_PATCH                                    5
-#define OPENRJ_VER_ALPHABETA                                0x81
+#define OPENRJ_VER_RELSTATUS                                0xFF
 
 #define OPENRJ_VER \
    (0\
        |   (   OPENRJ_VER_MAJOR       << 24   ) \
        |   (   OPENRJ_VER_MINOR       << 16   ) \
        |   (   OPENRJ_VER_PATCH       <<  8   ) \
-       |   (   OPENRJ_VER_ALPHABETA   <<  0   ) \
+       |   (   OPENRJ_VER_RELSTATUS   <<  0   ) \
    )
 
 #ifndef OPENRJ_DOCUMENTATION_SKIP_SECTION
+# define OPENRJ_VER_ALPHABETA                               OPENRJ_VER_RELSTATUS
 # define OPENRJ_VER_REVISION                                OPENRJ_VER_PATCH
 #endif /* !OPENRJ_DOCUMENTATION_SKIP_SECTION */
 
