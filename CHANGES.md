@@ -1,6 +1,11 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
+## 1.6.6 - 27th October 2026
+
+* Defined `HAS_<Pkg>` and `HAS_<PKG>` when a Synesis package other than **STLSoft** is detected;
+
+
 ## 1.6.5 - 14th October 2026
 
 * Synced tip **cmake-helpers** runners;
