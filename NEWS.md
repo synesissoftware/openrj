@@ -6,6 +6,7 @@
 
 | Date                | News Item                   | Details |
 | ------------------- | --------------------------- | ------- |
+| 31st October 2026  | Release of [Open-RJ 1.6.7](https://github.com/synesissoftware/openrj/releases/tag/1.6.7) | `File:` labels use the project-relative path |
 | 27th October 2026  | Release of [Open-RJ 1.6.6](https://github.com/synesissoftware/openrj/releases/tag/1.6.6) | `HAS_<Pkg>` / `HAS_<PKG>` for detected Synesis packages |
 | 14th October 2026  | [1.6.5 released](https://github.com/synesissoftware/openrj/releases/tag/1.6.5) | Tip helpers; `OPENRJ_VER_RELSTATUS`; Phase **4c**; CI hygiene |
 | 10th October 2026   | [1.6.5-beta1 released](https://github.com/synesissoftware/openrj/releases/tag/1.6.5-beta1) | CMake helpers, version reporter, and release metadata |
