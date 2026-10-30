@@ -1,11 +1,11 @@
 /* /////////////////////////////////////////////////////////////////////////
- * File:    example_c_7.c
+ * File:    examples/c/example.c.7/example.c.7.c
  *
  * Purpose: C example program for the Open-RJ core library. Demonstrates
  *          processing of all database fields via structure members.
  *
  * Created: 12th May 2006
- * Updated: 23rd August 2026
+ * Updated: 30th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 

@@ -1,11 +1,11 @@
 /* /////////////////////////////////////////////////////////////////////////
- * File:    example_c_3.c
+ * File:    examples/c/example.c.3/example.c.3.c
  *
  * Purpose: C example program for the Open-RJ core library. Demonstrates
  *          searching for fields in records.
  *
  * Created: 12th May 2006
- * Updated: 23rd August 2026
+ * Updated: 30th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 
