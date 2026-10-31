@@ -1,6 +1,15 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
+## 1.6.7 - 1st November 2026
+
+* testing:
+  * `File:` labels under **examples** name the project-relative path;
+  * `File:` labels under **test** name the project-relative path;
+* build:
+  * the **Check test names** job runs **STLSoft** **check_unit_test_names.rb** over **examples** and **test**;
+
+
 ## 1.6.6 - 27th October 2026
 
 * Defined `HAS_<Pkg>` and `HAS_<PKG>` when a Synesis package other than **STLSoft** is detected;

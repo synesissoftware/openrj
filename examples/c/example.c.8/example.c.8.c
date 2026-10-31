@@ -1,11 +1,11 @@
 /* /////////////////////////////////////////////////////////////////////////
- * File:    example_c_8.c
+ * File:    examples/c/example.c.8/example.c.8.c
  *
  * Purpose: C example program for the Open-RJ core library. Demonstrates use
  *          of processing instructions for field-name aliases.
  *
  * Created: 12th May 2006
- * Updated: 23rd August 2026
+ * Updated: 30th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 

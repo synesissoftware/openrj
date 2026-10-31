@@ -1,11 +1,11 @@
 /* /////////////////////////////////////////////////////////////////////////
- * File:    example_c_5.c
+ * File:    examples/c/example.c.5/example.c.5.c
  *
  * Purpose: C example program for the Open-RJ core library. Demonstrates
  *          handling of a "failure to open file" error.
  *
  * Created: 12th May 2006
- * Updated: 9th October 2026
+ * Updated: 30th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 
