@@ -1,7 +1,7 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
-## 1.6.7 - 31st October 2026
+## 1.6.7 - 1st November 2026
 
 * testing:
   * `File:` labels under **examples** name the project-relative path;
