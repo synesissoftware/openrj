@@ -1,11 +1,11 @@
 /* /////////////////////////////////////////////////////////////////////////
- * File:    example_c_6.c
+ * File:    examples/c/example.c.6/example.c.6.c
  *
  * Purpose: C example program for the Open-RJ core library. Demonstrates
  *          processing of all database fields via API functions.
  *
  * Created: 12th May 2006
- * Updated: 23rd August 2026
+ * Updated: 30th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 

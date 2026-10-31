@@ -1,11 +1,11 @@
 /* /////////////////////////////////////////////////////////////////////////
- * File:    example_c_4.c
+ * File:    examples/c/example.c.4/example.c.4.c
  *
  * Purpose: C example program for the Open-RJ core library. Demonstrates
  *          handling of parsing errors.
  *
  * Created: 12th May 2006
- * Updated: 23rd August 2026
+ * Updated: 30th October 2026
  *
  * ////////////////////////////////////////////////////////////////////// */
 
