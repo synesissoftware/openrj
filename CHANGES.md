@@ -1,6 +1,12 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
+## 1.6.8 - 2nd November 2026
+
+* build:
+  * **STLSoft** minimum is **1.11.5**;
+  * **xTests** minimum is **0.28.2**;
+
 ## 1.6.7 - 1st November 2026
 
 * testing:
