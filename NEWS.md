@@ -6,6 +6,7 @@
 
 | Date                | News Item                   | Details |
 | ------------------- | --------------------------- | ------- |
+| 2nd November 2026  | Release of [Open-RJ 1.6.8](https://github.com/synesissoftware/openrj/releases/tag/1.6.8) | **STLSoft** **1.11.5**; **xTests** **0.28.2** |
 | 1st November 2026  | Release of [Open-RJ 1.6.7](https://github.com/synesissoftware/openrj/releases/tag/1.6.7) | `File:` labels use the project-relative path; **Check test names** |
 | 27th October 2026  | Release of [Open-RJ 1.6.6](https://github.com/synesissoftware/openrj/releases/tag/1.6.6) | `HAS_<Pkg>` / `HAS_<PKG>` for detected Synesis packages |
 | 14th October 2026  | [1.6.5 released](https://github.com/synesissoftware/openrj/releases/tag/1.6.5) | Tip helpers; `OPENRJ_VER_RELSTATUS`; Phase **4c**; CI hygiene |
