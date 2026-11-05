@@ -1,6 +1,12 @@
 # Open-RJ - Changes <!-- omit in toc -->
 
 
+## 1.6.9 - 6th November 2026
+
+* build:
+  * CI installs **woad** before **xTests**, which **xTests** 0.29 requires;
+
+
 ## 1.6.8 - 2nd November 2026
 
 * build:
